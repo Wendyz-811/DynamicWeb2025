@@ -49,7 +49,6 @@ const DropdownPage = () => {
   const handleChange = (option) => {
     setValue(option)
   }
-  //define the parent so they have the action
 
   return (
     <div>
