@@ -18,7 +18,7 @@ const PROGRAMMING_FAQ = [
     id: '789',
     label: 'Can I get a job after learning React?',
     content:
-      'Maybe. You should study hard.',
+      'Maybe. You should study harder.',
   },
 
 ]
