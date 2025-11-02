@@ -1,5 +1,5 @@
 import './components/RecipeCard.css'
-// this is how we import img file data as a js variable
+// this is how we import img file data as a js variable.
 import RECIPE_IMG from './assets/pancake.png'
 import {RECIPE} from './components/recipe-data'
 const App = () => {
