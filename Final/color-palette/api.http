@@ -1,0 +1,27 @@
+### Get all palettes
+GET http://localhost:3001/palettes HTTP/1.1
+Content-Type: application/json
+
+### Create a palette
+POST http://localhost:3001/palettes HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "Ocean Vibes",
+  "colors": ["#0077BE", "#00B4D8", "#90E0EF", "#CAF0F8", "#ADE8F4"],
+  "tags": ["blue", "calm"],
+}
+
+### Update a palette
+PUT http://localhost:3001/palettes/1 HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "Ocean Vibes Updated",
+  "colors": ["#0077BE", "#00B4D8", "#90E0EF", "#CAF0F8", "#ADE8F4"],
+  "tags": ["blue", "calm", "professional"],
+}
+
+### Delete a palette
+DELETE http://localhost:3001/palettes/1 HTTP/1.1
+Content-Type: application/json
