@@ -11,7 +11,7 @@ This project is a color palette management tool that helps designers and develop
 
 ### **Save & Organize**
 - Save your favorite palettes with custom names
-- Add tags for easy categorization (e.g., "professional", "calm", "vibrant")
+- Add tags for easy categorization
 - All data persists in a local database
 
 ### **Manage Your Collection**
@@ -23,7 +23,6 @@ This project is a color palette management tool that helps designers and develop
 ### **Visual Color Display**
 - Each color displays its HEX code
 - Easy-to-read format
-- Responsive grid layout
 
 ## Presentation Deck
 
