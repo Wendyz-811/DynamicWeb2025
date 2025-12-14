@@ -24,6 +24,12 @@ This project is a color palette management tool that helps designers and develop
 - Each color displays its HEX code
 - Easy-to-read format
 
+## Tech Skill
+- React fundamentals like components, props, and state
+- useReducer and Context API
+- Axios + JSON Server for backend data storage
+- TailwindCSS for styling
+
 ## Presentation Deck
 
 [View Presentation Slides](https://docs.google.com/presentation/d/1CYDerOR-V945Vis0wqf2Gez6tkWJAgxssxKNmvx6emI/edit?slide=id.g3aba5b27992_0_2#slide=id.g3aba5b27992_0_2)
